@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه اصلی</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #f8f9fa;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>به تارنمای ما خوش آمدید</h1>
+    </header>
+    <main>
+        <p>این یک صفحه اصلی ساده است.</p>
+    </main>
+    <footer>
+        <p>حق چاپ © 2024</p>
+    </footer>
+</body>
+</html>
